@@ -1,5 +1,7 @@
+import Items from "./Items";
+
 function App() {
-  return <div>Hello World</div>;
+  return <Items />;
 }
 
 export default App;
